@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JadhaoR181/TechBlog-Blogging-Page/static/css/main.d594492f.css",
+    "main.js": "/JadhaoR181/TechBlog-Blogging-Page/static/js/main.c44c097b.js",
+    "static/js/787.4d738910.chunk.js": "/JadhaoR181/TechBlog-Blogging-Page/static/js/787.4d738910.chunk.js",
+    "static/media/fa-solid-900.ttf": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/JadhaoR181/TechBlog-Blogging-Page/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/JadhaoR181/TechBlog-Blogging-Page/index.html",
+    "main.d594492f.css.map": "/JadhaoR181/TechBlog-Blogging-Page/static/css/main.d594492f.css.map",
+    "main.c44c097b.js.map": "/JadhaoR181/TechBlog-Blogging-Page/static/js/main.c44c097b.js.map",
+    "787.4d738910.chunk.js.map": "/JadhaoR181/TechBlog-Blogging-Page/static/js/787.4d738910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d594492f.css",
+    "static/js/main.c44c097b.js"
+  ]
+}

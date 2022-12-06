@@ -1,0 +1,60 @@
+{
+  "blogs": [
+    {
+      "title": "The FTC is investigating crypto firms for possible misconduct following FTX collapse",
+      "description": "The Federal Trade Commission is investigating multiple crypto companies over allegations of deceptive conduct, as first reported by Bloomberg on Monday.\n\n“While we can’t comment on current events in the crypto markets or the details of any ongoing investigations, we are investigating several firms for possible misconduct concerning digital assets,” an FTC spokesperson said in a statement to The Verge Tuesday. “We cannot comment on the nature of the investigations.”\n\nOn top of several civil suits, the FTC is just the latest US agency to probe the crypto industry following the sudden implosion of popular trading exchange FTX last month. The Justice Department, Securities and Exchange Commission, the Commodities Future Trading Commission, and two state attorneys general have all reportedly launched investigations into FTX and its executives over the last few weeks.",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670347548/snbvbaa9wpa8nubbq7pj.webp",
+      "date": "06/12/2022",
+      "id": 1
+    },
+    {
+      "title": "Facebook threatens to ban news in the US over journalism bill",
+      "description": "Facebook warns it could ban news in the US if Congress passes a bill that would require the platform to negotiate with and compensate publishers for their content. Andy Stone, Meta’s head of policy communications, said on Twitter that Facebook will “be forced to consider removing news” from Facebook if the Journalism Competition and Preservation Act (JCPA) is passed. Facebook previously threatened to block news in Canada and Australia when similar laws were proposed.\n\nIntroduced last year with bipartisan support, the JCPA would allow publishers to negotiate with platforms like Facebook and Google over the distribution of their content. It’s supposed to give news publishers leverage against Big Tech and could require Facebook to pay for including news on its platform, something that Facebook has fiercely fought in the past in other countries.",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670348049/kufyzztx5sd3cid3n7ii.webp",
+      "date": "06/12/2022",
+      "id": 2
+    },
+    {
+      "title": "AI-generated answers temporarily banned on coding Q&A site Stack Overflow",
+      "description": "The primary problem is that while the answers which ChatGPT produces have a high rate of being incorrect, they typically look like they might be good and the answers are very easy to produce,” wrote the mods (emphasis theirs). “As such, we need the volume of these posts to reduce [...] So, for now, the use of ChatGPT to create posts here on Stack Overflow is not permitted. If a user is believed to have used ChatGPT after this temporary policy is posted, sanctions will be imposed to prevent users from continuing to post such content, even if the posts would otherwise be acceptable.”\n\nChatGPT is an experimental chatbot created by OpenAI and based on its autocomplete text generator GPT-3.5. A web demo for the bot was released last week and has since been enthusiastically embraced by users around the web. The bot’s interface encourages people to ask questions and in return offers impressive and fluid results across a range of queries; from generating poems, songs, and TV scripts, to answering trivia questions and writing and debugging lines of code.\n\nBut while many users have been impressed by ChatGPT’s capabilities, others have noted its persistent tendency to generate plausible but false responses. Ask the bot to write a biography of a public figure, for example, and it may well insert incorrect biographical data with complete confidence. Ask it to explain how to program software for a specific function and it can similarly produce believable but ultimately incorrect code.",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670350485/tujhfgxydchgvdibqp6u.jpg",
+      "date": "06/12/2022",
+      "id": 3
+    },
+    {
+      "title": "Disney’s latest AI tool de-ages actors in seconds",
+      "description": "It’s little wonder that Disney has been working on automating visual effects given it’s one of the biggest names recreating or de-aging actors on the big screen. Characters in the Marvel Cinematic Universe such as Nick Fury (Samuel L. Jackson), Hank Pym (Michael Douglas), and Ego the Living Planet (Kurt Russell) have all been visually adjusted in recent years, in addition to Star Wars characters like Leia Organa (Carrie Fisher) and Wilhuff Tarkin (Peter Cushing).\n\nThis also isn’t the first time Disney has trained an AI to alter someone’s appearance in video footage, as its research arm previously released a “photo-realistic” deepfake tool in 2020. Industrial Light & Magic (Disney’s visual effects company) has also worked on systems to reduce postproduction VFX that are actually in use, such as giant 20-foot-tall LED video screens for The Mandalorian.\n\nDespite its potential benefits in filmmaking, it isn’t clear if Disney intends to make this technology available to the public, and there’s still certainly some room for improvement, so it could be a while until we see this level of intricate visual effects work practically automated within the industry.",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670350569/qcwhlzq9yu8ipi9go5zk.webp",
+      "date": "06/12/2022",
+      "id": 4
+    },
+    {
+      "title": "Netflix CEO says he’ll order Dave Chappelle specials ‘again and again’ despite employee backlash",
+      "description": "Netflix CEO Reed Hastings said the company would order Dave Chappelle’s comedy specials “again and again” at The New York Times’ DealBook Summit on Wednesday. Chappelle’s last comedy special, The Closer, came under fire by employees for being transphobic.\n\n“We’re just trying to be the most exciting entertainment company and more,” Hastings said when asked about how Netflix deals with controversy. “That special was one of the most entertaining watch specials we’ve ever had. We would do it again and again.” Hastings then goes on to describe Chappelle as “very entertaining and provocative,” aligning with Netflix’s overall goal of being “about entertainment.”\n\nNetflix bought The Closer for $24.1 million, and it premiered on the platform last year. While it left many staff members uncomfortable with Chappelle’s jokes about the LGBTQ+ community, Netflix stood by it anyway. This led a group of employees to rally against and openly criticize Netflix’s choice to have the special on the platform. However, Netflix responded by suspending three trans workers, two of whom ended up resigning while another, B. Pagels-Minor, was fired over claims that they leaked confidential information. (Pagels-Minor has denied this claim.)\n\n",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670350687/nmv6jlouvoegxpb29xth.webp",
+      "date": "06/12/2022",
+      "id": 5
+    },
+    {
+      "title": "Elon Musk is delaying Twitter’s paid verification to avoid Apple’s 30 percent cut / The Blue subscription package with verification and other perks was supposed to relaunch on Tuesday. By JAY PETERS / @jaypeters  Nov 30, 2022, 7:48 AM GMT+5:30|110 Comments / 110 New Share this story",
+      "description": "Twitter’s revamped Blue subscription might not be available as an in-app purchase on iOS when it eventually relaunches so that it can dodge Apple’s 30 percent cut of App Store purchases, according to Platformer. When the new Blue was briefly available earlier this month, you could only purchase it through Twitter’s iOS app. But while Elon Musk is publicly tweeting his displeasure with Apple, it appears he wants to avoid having to pay Apple’s fees.\n\nMusk had said that the new Blue, which allows people to purchase a blue verification check mark, was set to relaunch on Tuesday after signups were paused following a wave of impersonators. But that launch has been delayed, Platformer says, and The Verge has also heard of the delay from a person with direct knowledge of the matter. Twitter employees have been told that there will be other changes to Blue, including a one-cent price increase from $7.99 to $8 and requiring phone number verification, Platformer reports.",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670350743/uicmzonbtp5cw0z75ies.webp",
+      "date": "06/12/2022",
+      "id": 6
+    },
+    {
+      "title": "Tesla is reportedly working on a redesigned Model 3",
+      "description": "Tesla reportedly has a new Model 3 design in the works, according to four sources speaking to Reuters with knowledge on the matter. The new model, going by the codename “Highland,” will have fewer interior components and a slightly redesigned exterior, with the goal of both cutting production costs and increasing the appeal of the now five-year-old midsize electric sedan.\n\nThe redesigned Model 3 may also have some powertrain performance adjustments, although it’s unclear if this means we will see a faster or more tame vehicle. The sources say that the production of the new model will begin at Tesla’s Shanghai Gigafactory in the third quarter of 2023. It’s planned for Tesla’s Fremont, California, plant as well, though no timeline was provided.\n\nTesla’s Model 3 was originally designed to be the company’s EV for the masses and was supposed to start at an affordable $35,000. But since it went into production, the vehicle was only available at that price for a very short period — and only as a special order. That version had some interior downgrades, like no phone chargers, cloth seats, and an uncovered center console storage bin. Currently, the most affordable Model 3 starts at $46,990.",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670350948/wrzmpqpgbasyf0luoh1p.webp",
+      "date": "06/12/2022",
+      "id": 7
+    },
+    {
+      "title": "Fortnite’s latest live event was its strangest yet",
+      "description": "Fortnite just wrapped up its most recent large-scale live event, and it was a strange one — even by Fortnite standards. The event, dubbed “Fracture,” was meant as a sendoff for Fortnite Chapter 3, and now that it’s over, the game is down ahead of the launch of the next chapter on December 4th, which will introduce not only a new island, but characters like the witcher himself, Geralt of Rivia.\n\nBefore things kicked off, players were split into groups, hanging out on tiny floating islands with little to do but watch a countdown displayed on a TV screen. (My trio of players all sat around roasting marshmallows together.) That was followed by a cutscene in which The Herald, a relatively new Fortnite character, led an attack of tornadoes, and after a little bit of fighting, a gigantic chrome version of her appeared, somehow resulting in the entire island exploding into many, many pieces.\nWhereas past Fortnite events have been heavy on action, whether it was a battle against Galactus or an explosive alien invasion, this one was a little more subdued. At times it felt like busywork. In order to power up the Zero Point, players had to perform simple tasks like building a snowman or finding matching objects to collect energy. They could also relive brief flashbacks from past events — like the mech vs. kaiju battle or the rolling cube — and talk to a few NPCs for basic quests. As the portal powered itself up, more fragments of the destroyed island would appear.\n\nOnce the Zero Point was powered up, the event shifted to another cutscene, in which Paradigm — a Fortnite character played by Brie Larson — appeared to oversee a new island being formed.",
+      "imageURL": "http://res.cloudinary.com/dal8uhh80/image/upload/v1670351336/ems3rpmt5pd1j1dptwdj.webp",
+      "date": "06/12/2022",
+      "id": 8
+    }
+  ]
+}
